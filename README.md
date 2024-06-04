@@ -1,14 +1,11 @@
-[![MasterHead](https://i0.wp.com/rerouting.ca/wp-content/uploads/2021/03/Simple-Technology-LinkedIn-Banner.png?w=1584&ssl=1)]
 
 <h1 align="center">Hi 👋, I'm Jyoti Yadav</h1>
 <h3 align="center">Developer Enthusiast | Data Science Explorer:- Designing Aesthetically Pleasing Interfaces and Exploring Data Wonders</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiyadav7021&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiyadav7021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotiyadav7021" alt="jyotiyadav7021" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jyoti_yadav7021" target="blank"><img src="https://img.shields.io/twitter/follow/jyoti_yadav7021?logo=twitter&style=for-the-badge" alt="jyoti_yadav7021" /></a> </p>
 
