@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jyoti Yadav</h1>
-<h3 align="center">Developer Enthusiast | Data Science Explorer:- Designing Aesthetically Pleasing Interfaces and Exploring Data Wonders</h3>
+<h3 align="center">Developer Enthusiast | Designing Aesthetically Pleasing Interfaces and Exploring Data Wonders</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
 
 
@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/jyoti_yadav7021" target="blank"><img src="https://img.shields.io/twitter/follow/jyoti_yadav7021?logo=twitter&style=for-the-badge" alt="jyoti_yadav7021" /></a> </p>
 
-- 🔭 I’m currently working on [reactjs](machine learning)
+- 🔭 I’m currently working on [Node.js]
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://jyotiyadav7021.github.io/jyotiyadav.github.io/](https://jyotiyadav7021.github.io/jyotiyadav.github.io/)
 
-- 💬 Ask me about **JS, ReactJS, HTML, CSS, Python, Machine learning**
+- 💬 Ask me about **JS, ReactJS, HTML, CSS, Node.js**
 
 - 📫 How to reach me **jyooyadav7021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OESQZ7pKXy6yPOP34BJLuPJEpGw-uXsb/view?usp=sharing](https://drive.google.com/file/d/1OESQZ7pKXy6yPOP34BJLuPJEpGw-uXsb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OESQZ7pKXy6yPOP34BJLuPJEpGw-uXsb/view?usp=sharing]([https://drive.google.com/file/d/1OESQZ7pKXy6yPOP34BJLuPJEpGw-uXsb/view?usp=sharing](https://drive.google.com/file/d/1axiBFFjURhh0wi1XtEgFW0omctOs4dfG/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
