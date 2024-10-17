@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://jyotiyadav7021.github.io/jyotiyadav.github.io/](https://jyotiyadav7021.github.io/jyotiyadav.github.io/)
+- 👨‍💻 All of my projects are available at [https://jyotiyadav7021.github.io/jyotiyadav.github.io/](https://portfolio-jyoti-yadav.netlify.app/)
 
 - 💬 Ask me about **JS, ReactJS, HTML, CSS, Node.js**
 
